@@ -21,7 +21,10 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<p><b>Technology has the power to make the world a better place</b></p>
+  
+  <br>
+  
+<p><b>勤靡余劳，心有常闲</b></p>
 </div>
 
 ## Hi! Nice to meet you!
