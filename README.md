@@ -24,7 +24,7 @@
   
   <br>
 
-<p><b>勤靡余劳，心有常闲</b></p>
+<p style="font-size:24px;"><b>勤靡余劳，心有常闲</b></p>
 </div>
 
 **👋 Hi, I'm @HuberyYang**
