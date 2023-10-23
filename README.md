@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 - 👀 Hi there, I’m HuberyYang
 
-- [![Hub-yang-github](https://github-readme-stats.vercel.app/api?username=Hub-yang-github)](https://github.com/Hub-yang/github-readme-stats)
+- [![Hub-yang](https://github-readme-stats.vercel.app/api?username=Hub-yang)](https://github.com/Hub-yang/github-readme-stats)
 
