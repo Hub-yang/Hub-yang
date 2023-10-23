@@ -27,8 +27,8 @@
 <p><b>勤靡余劳，心有常闲</b></p>
 </div>
 
-**👋 Hi, I’m @HuberyYang**
+**👋 Hi, I'm @HuberyYang**
 
-## 👀 I ’m interest in JavaScript, Vuejs, AI, etc.
+**👀 I'm a front-end development engineer and I'm interest in JavaScript, Vuejs, AI, etc.**
 
-## Nice to meet you!
+**Welcome to follow me and Nice to meet you!**
