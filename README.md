@@ -27,7 +27,7 @@
 <p><b>勤靡余劳，心有常闲</b></p>
 </div>
 
-## 👋 Hi, I’m @HuberyYang
+**👋 Hi, I’m @HuberyYang**
 
 ## 👀 I ’m interest in JavaScript, Vuejs, AI, etc.
 
