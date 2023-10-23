@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">Test</div>
-
 github统计插件
 [![Hub-yang](https://github-readme-stats.vercel.app/api?username=Hub-yang)](https://github.com/Hub-yang/github-readme-stats)
 
 语言统计插件
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang)](https://github.com/Hub-yang/github-readme-stats)
 -->
+
+
+<div align="center">Test</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&random=false&width=435&lines=console.log(%22Hello%2C+world!%22))](https://git.io/typing-svg)
 
