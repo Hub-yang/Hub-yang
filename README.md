@@ -24,3 +24,5 @@ github统计插件
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang&layout=compact)](https://github.com/Hub-yang/github-readme-stats)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
