@@ -23,13 +23,12 @@
   </div>
   
   <br>
-  
+
 <p><b>勤靡余劳，心有常闲</b></p>
 </div>
 
-## Hi! Nice to meet you!
+## 👋 Hi, I’m @HuberyYang
 
-<!-- 个人简介 -->
+## 👀 I ’m interest in JavaScript, Vuejs, AI, etc.
 
-- 👋 Hi, I’m @HuberyYang
-- 👀 I ’m interest in JavaScript, Vuejs, AI, etc.
+## Nice to meet you!
