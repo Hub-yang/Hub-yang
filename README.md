@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <!-- <a href="https://git.io/typing-svg"> -->
-      <img style="pointer-events:none;" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=console.log(%22Hello%2C+world!%22)" alt="Typing SVG" />
+      <img style="pointer-events:none;background-color:red;" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=console.log(%22Hello%2C+world!%22)" alt="Typing SVG" />
     <!-- </a> -->
   </div>
 
