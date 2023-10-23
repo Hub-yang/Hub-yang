@@ -12,8 +12,8 @@
   <div align="center">
     <a href="https://huberyyang.gitee.io/my-blog-new/" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
     <a href="https://huberyyang.gitee.io/my-personal-website/#/" target="_blank"><img src="https://img.shields.io/badge/前端森林-导航-blue" /></a>&emsp;
-    <a href="javascript:;"><img src="https://img.shields.io/badge/Music-音乐-c32136" /></a>&emsp;
-    <a href="javascript:;"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.mochenghualei.com.cn:82/" target="_blank"><img src="https://img.shields.io/badge/Music-音乐-c32136" /></a>&emsp;
+    <a href="https://space.bilibili.com/278851804?spm_id_from=333.999.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
