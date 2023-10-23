@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">Test</div>
+
 github统计插件
 [![Hub-yang](https://github-readme-stats.vercel.app/api?username=Hub-yang)](https://github.com/Hub-yang/github-readme-stats)
 
