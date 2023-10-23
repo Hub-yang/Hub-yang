@@ -28,5 +28,7 @@
 </div>
 
 **👋 Hi, I'm @HuberyYang**
-**👀 I'm a front-end development engineer and I'm interest in JavaScript, Vuejs, AI, etc.**
-**Welcome to follow me and nice to meet you!**
+
+**🧑‍💻 I'm a front-end development engineer and I'm interest in JavaScript, Vuejs, AI, etc.**
+
+**🌟Welcome to follow me and nice to meet you!**
