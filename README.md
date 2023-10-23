@@ -26,6 +26,8 @@ github统计插件
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang&layout=compact)](https://github.com/Hub-yang/github-readme-stats)
 
+https://visitor-badge.glitch.me/badge?page_id=Hub-yang.visitor-badge
+
 - 👀 Hi there, I’m HuberyYang
 
 
