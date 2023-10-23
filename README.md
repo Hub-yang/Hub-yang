@@ -21,9 +21,9 @@ github统计插件
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&random=false&width=435&lines=console.log(%22Hello%2C+world!%22))](https://git.io/typing-svg)
 
-- 👀 Hi there, I’m HuberyYang
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang&layout=compact)](https://github.com/Hub-yang/github-readme-stats)
+
+- 👀 Hi there, I’m HuberyYang
 
 
 
