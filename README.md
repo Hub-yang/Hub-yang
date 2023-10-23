@@ -11,12 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-github统计插件
-[![Hub-yang](https://github-readme-stats.vercel.app/api?username=Hub-yang)](https://github.com/Hub-yang/github-readme-stats)
-
-语言统计插件
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang)](https://github.com/Hub-yang/github-readme-stats)
 -->
 
 
