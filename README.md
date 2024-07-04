@@ -11,8 +11,9 @@
   <!-- profile logo 徽标 -->
   <div align="center">
     <a href="https://huberyyang.site/" target="_blank"><img src="https://img.shields.io/badge/Homepage-主页-blue" /></a>&emsp;
+    <a href="https://huberyyang.site:82/" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-58be6a" /></a>&emsp;
     <a href="https://huberyyang.gitee.io/my-personal-website/#/" target="_blank"><img src="https://img.shields.io/badge/前端森林-导航-blue" /></a>&emsp;
-    <a href="https://www.mochenghualei.com.cn:82/" target="_blank"><img src="https://img.shields.io/badge/Music-音乐-c32136" /></a>&emsp;
+    <a href="https://huberyyang.site:83/" target="_blank"><img src="https://img.shields.io/badge/Music-音乐-c32136" /></a>&emsp;
     <a href="https://space.bilibili.com/278851804?spm_id_from=333.999.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -22,8 +23,8 @@
   <p style="font-size:24px;"><b>勤靡余劳，心有常闲</b></p>
 </div>
 
-**👋 Hi, I'm @HuberyYang**
+**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/)**
 
-**🧑‍💻 I'm a front-end development engineer and I'm interest in JavaScript, Vuejs, AI, etc.**
+**🧑‍💻 I'm a front-end development engineer and I'm interest in JavaScript, Vuejs, Nuxtjs, AI, etc.**
 
 **🌟 Welcome to follow me and nice to meet you!**
