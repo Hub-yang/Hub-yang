@@ -12,7 +12,7 @@
   <div align="center">
     <a href="https://huberyyang.site/" target="_blank"><img src="https://img.shields.io/badge/Homepage-主页-blue" /></a>&emsp;
     <a href="https://huberyyang.site:82/" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-58be6a" /></a>&emsp;
-    <a href="https://huberyyang.site:81/" target="_blank"><img src="https://img.shields.io/badge/健身管理系统-skyblue" /></a>&emsp;
+    <a href="https://huberyyang.site:81/" target="_blank"><img src="https://img.shields.io/badge/Admin-健身管理系统-skyblue" /></a>&emsp;
     <a href="https://huberyyang.site:83/" target="_blank"><img src="https://img.shields.io/badge/Music-音乐-c32136" /></a>&emsp;
     <a href="https://huberyyang.site:84/" target="_blank"><img src="https://img.shields.io/badge/前端森林-导航-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/278851804?spm_id_from=333.999.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
