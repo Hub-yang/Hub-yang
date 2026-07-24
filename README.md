@@ -28,8 +28,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Hub-yang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang&layout=compact&theme=tokyonight&hide_border=true" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hub-yang&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hub-yang&theme=tokyonight" /></td>
   </tr>
 </table>
 
