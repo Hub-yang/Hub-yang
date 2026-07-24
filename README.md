@@ -1,33 +1,63 @@
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=console.log(%22Hello%2C+world!%22)" alt="Typing SVG" />
-  </div>
 
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Engineer%20%C2%B7%20Vue%20%26%20Nuxt%20%C2%B7%20AI%20Explorer&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 
-  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=Front-end+Engineer+%F0%9F%9A%80;Vue+%26+Nuxt+Enthusiast+%E2%9A%A1;AI+Explorer+%F0%9F%A4%96;%E5%8B%A4%E9%9D%A1%E4%BD%99%E5%8A%B3%EF%BC%8C%E5%BF%83%E6%9C%89%E5%B8%B8%E9%97%B2" alt="Typing SVG" />
 
-  <!-- profile logo 徽标 -->
-  <div align="center">
-    <a href="https://huberyyang.site/" target="_blank"><img src="https://img.shields.io/badge/Homepage-主页-blue" /></a>&emsp;
-    <a href="https://huberyyang.site:82/" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-58be6a" /></a>&emsp;
-    <a href="https://huberyyang.site:81/" target="_blank"><img src="https://img.shields.io/badge/Admin-健身管理系统-skyblue" /></a>&emsp;
-    <a href="https://huberyyang.site:83/" target="_blank"><img src="https://img.shields.io/badge/Music-音乐-c32136" /></a>&emsp;
-    <a href="https://huberyyang.site:84/" target="_blank"><img src="https://img.shields.io/badge/前端森林-导航-blue" /></a>&emsp;
-    <a href="https://huberyyang.site:88/" target="_blank"><img src="https://img.shields.io/badge/equals-demo-purple" /></a>&emsp;
-    <a href="https://huberyyang.site:90/" target="_blank"><img src="https://img.shields.io/badge/AI日报-green" /></a>&emsp;
-    <a href="https://space.bilibili.com/278851804?spm_id_from=333.999.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-  
-  <br>
+**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/) — 一名前端开发工程师，对 JavaScript / Vue / Nuxt / AI 保持好奇心。**
 
-  <p style="font-size:24px;"><b>勤靡余劳，心有常闲</b></p>
+**🌟 There's always something we can do.**
+
 </div>
 
-**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/)**
+<br>
 
-**🧑‍💻 I'm a front-end development engineer and I'm interest in JavaScript, Vuejs, Nuxtjs, AI, etc.**
+<div align="center">
 
-**🌟 Welcome to follow me and nice to meet you!**
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,vite,html,css,nodejs,git,github,vscode,figma" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Hub-yang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=Hub-yang&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Projects & Sites
+
+</div>
+
+| | |
+|---|---|
+| 🏠 **主页 / Homepage**<br>个人主页与作品集<br>[访问 →](https://huberyyang.site/) | 📝 **博客 / Blog**<br>技术与生活记录<br>[访问 →](https://huberyyang.site:82/) |
+| 💪 **健身管理系统**<br>个人健身数据管理后台<br>[访问 →](https://huberyyang.site:81/) | 🎵 **音乐 / Music**<br>在线音乐播放站点<br>[访问 →](https://huberyyang.site:83/) |
+| 🧭 **前端森林 · 导航**<br>前端资源导航站<br>[访问 →](https://huberyyang.site:84/) | 🧪 **Demo / equals**<br>前端实验与示例项目<br>[访问 →](https://huberyyang.site:88/) |
+| 🤖 **AI 日报**<br>每日 AI 资讯速览<br>[访问 →](https://huberyyang.site:90/) | 📺 **Bilibili**<br>视频与技术分享<br>[访问 →](https://space.bilibili.com/278851804) |
+
+<br>
+
+<div align="center">
+
+<p style="font-size:20px;"><b>勤靡余劳，心有常闲</b></p>
+
+<img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=6366F1&style=flat" alt="访问量统计" />
+
+</div>
