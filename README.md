@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Front-end%20Engineer%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20AI%20Explorer&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=Front-end+Engineer+%F0%9F%9A%80;Vue+%26+Nuxt+Enthusiast+%E2%9A%A1;AI+Explorer+%F0%9F%A4%96;%E5%8B%A4%E9%9D%A1%E4%BD%99%E5%8A%B3%EF%BC%8C%E5%BF%83%E6%9C%89%E5%B8%B8%E9%97%B2" alt="Typing SVG" />
-
 **👋 Hi, I'm [@HuberyYang](https://huberyyang.site/) — 一名前端开发工程师，对 JavaScript / Vue / Nuxt / AI 保持好奇心。**
 
 **🌟 There's always something we can do.**
