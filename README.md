@@ -28,12 +28,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hub-yang&theme=tokyonight" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hub-yang&theme=tokyonight" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=Hub-yang&theme=tokyonight&hide_border=true" /></td>
   </tr>
 </table>
-
-<img src="https://streak-stats.demolab.com/?user=Hub-yang&theme=tokyonight&hide_border=true" />
 
 </div>
 
