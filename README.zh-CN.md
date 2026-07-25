@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/) — a Front-end Engineer, curious about JavaScript / Vue / Nuxt / AI.**
+**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/) — 一名前端开发工程师，对 JavaScript / Vue / Nuxt / AI 保持好奇心。**
 
 **🌟 There's always something we can do.**
 
@@ -54,13 +54,13 @@
 
 ### 🚀 Projects & Sites
 
-<a href="https://huberyyang.site/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_Home-6366F1?style=for-the-badge" /></a>
-<a href="https://huberyyang.site:82/"><img src="https://img.shields.io/badge/%F0%9F%93%9D_Blog-06B6D4?style=for-the-badge" /></a>
-<a href="https://huberyyang.site:81/"><img src="https://img.shields.io/badge/%F0%9F%92%AA_Fitness-8B5CF6?style=for-the-badge" /></a>
-<a href="https://huberyyang.site:83/"><img src="https://img.shields.io/badge/%F0%9F%8E%B5_Music-F59E0B?style=for-the-badge" /></a>
-<a href="https://huberyyang.site:84/"><img src="https://img.shields.io/badge/%F0%9F%A7%AD_Frontend_Forest-10B981?style=for-the-badge" /></a>
+<a href="https://huberyyang.site/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_%E4%B8%BB%E9%A1%B5-6366F1?style=for-the-badge" /></a>
+<a href="https://huberyyang.site:82/"><img src="https://img.shields.io/badge/%F0%9F%93%9D_%E5%8D%9A%E5%AE%A2-06B6D4?style=for-the-badge" /></a>
+<a href="https://huberyyang.site:81/"><img src="https://img.shields.io/badge/%F0%9F%92%AA_%E5%81%A5%E8%BA%AB%E7%AE%A1%E7%90%86-8B5CF6?style=for-the-badge" /></a>
+<a href="https://huberyyang.site:83/"><img src="https://img.shields.io/badge/%F0%9F%8E%B5_%E9%9F%B3%E4%B9%90-F59E0B?style=for-the-badge" /></a>
+<a href="https://huberyyang.site:84/"><img src="https://img.shields.io/badge/%F0%9F%A7%AD_%E5%89%8D%E7%AB%AF%E6%A3%AE%E6%9E%97-10B981?style=for-the-badge" /></a>
 <a href="https://huberyyang.site:88/"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Demo-EC4899?style=for-the-badge" /></a>
-<a href="https://huberyyang.site:90/"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Daily-3B82F6?style=for-the-badge" /></a>
+<a href="https://huberyyang.site:90/"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AI%E6%97%A5%E6%8A%A5-3B82F6?style=for-the-badge" /></a>
 <a href="https://space.bilibili.com/278851804"><img src="https://img.shields.io/badge/%F0%9F%93%BA_Bilibili-F97316?style=for-the-badge" /></a>
 
 </div>
@@ -70,8 +70,7 @@
 <div align="center">
 
 <p style="font-size:20px;"><b>勤靡余劳，心有常闲</b></p>
-<p style="font-size:13px;color:#888;">Tireless in effort, yet always at ease within</p>
 
-<img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=6366F1&style=flat" alt="Visit counter" />
+<img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=6366F1&style=flat" alt="访问量统计" />
 
 </div>
