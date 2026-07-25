@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Front-end%20Engineer%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20AI%20Explorer&descAlignY=55&descSize=18&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Front-end%20Engineer&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 
 </div>
 
@@ -8,8 +8,9 @@
 
 <div align="center">
 
-<a href="./README.md"><img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8_English-6366F1?style=for-the-badge" /></a>
-<a href="./README.zh-CN.md"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-06B6D4?style=for-the-badge" /></a>
+<b>English</b> | <a href="./README.zh-CN.md">中文</a>
+
+<img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=6366F1&style=flat" alt="Visit counter" />
 
 </div>
 
@@ -17,23 +18,19 @@
 
 <div align="center">
 
-**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/) — a Front-end Engineer, curious about JavaScript / Vue / Nuxt / AI.**
+**👋 Hi, I'm [@HuberyYang](https://huberyyang.site/) — a Front-end Engineer, open source enthusiast, curious about Vue / React / Nuxt / Next / AI.**
 
 **🌟 There's always something we can do.**
 
 </div>
 
-<br>
-
 <div align="center">
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,vite,html,css,nodejs,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,vite,react,nextjs,html,css,nodejs,git,github,vscode,figma" />
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -48,8 +45,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 ### 🚀 Projects & Sites
@@ -59,19 +54,15 @@
 <a href="https://huberyyang.site:81/"><img src="https://img.shields.io/badge/%F0%9F%92%AA_Fitness-8B5CF6?style=for-the-badge" /></a>
 <a href="https://huberyyang.site:83/"><img src="https://img.shields.io/badge/%F0%9F%8E%B5_Music-F59E0B?style=for-the-badge" /></a>
 <a href="https://huberyyang.site:84/"><img src="https://img.shields.io/badge/%F0%9F%A7%AD_Frontend_Forest-10B981?style=for-the-badge" /></a>
-<a href="https://huberyyang.site:88/"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Demo-EC4899?style=for-the-badge" /></a>
+<a href="https://huberyyang.site:88/"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Equals Demo-EC4899?style=for-the-badge" /></a>
 <a href="https://huberyyang.site:90/"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Daily-3B82F6?style=for-the-badge" /></a>
 <a href="https://space.bilibili.com/278851804"><img src="https://img.shields.io/badge/%F0%9F%93%BA_Bilibili-F97316?style=for-the-badge" /></a>
 
 </div>
 
-<br>
-
 <div align="center">
 
 <p style="font-size:20px;"><b>勤靡余劳，心有常闲</b></p>
 <p style="font-size:13px;color:#888;">Tireless in effort, yet always at ease within</p>
-
-<img src="https://komarev.com/ghpvc/?username=Hub-yang&label=Views&color=6366F1&style=flat" alt="Visit counter" />
 
 </div>
