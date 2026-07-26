@@ -20,7 +20,7 @@
 
 **👋 Hi, 我是[@HuberyYang](https://huberyyang.site/) — 一名前端开发工程师，开源爱好者，对 Vue / React / Nuxt / Next / AI 感兴趣。**
 
-**🌟 There's always something we can do.**
+**🌟 勤靡余劳，心有常闲**
 
 </div>
 
@@ -61,8 +61,5 @@
 </div>
 
 <div align="center">
-
-<p style="font-size:20px;"><b>勤靡余劳，心有常闲</b></p>
-<p style="font-size:13px;color:#888;">Tireless in effort, yet always at ease within</p>
 
 </div>
