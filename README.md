@@ -4,8 +4,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 <b>English</b> | <a href="./README.zh-CN.md">中文</a>
