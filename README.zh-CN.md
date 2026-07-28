@@ -59,7 +59,3 @@
 <a href="https://space.bilibili.com/278851804"><img src="https://img.shields.io/badge/%F0%9F%93%BA_B站-F97316?style=for-the-badge" /></a>
 
 </div>
-
-<div align="center">
-
-</div>
