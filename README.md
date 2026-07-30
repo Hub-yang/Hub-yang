@@ -60,6 +60,16 @@
 
 <div align="center">
 
+### 💖 Support
+
+If you like my work, consider buying me a coffee ☕
+
+<a href="https://afdian.com/a/huberyyang"><img src="https://img.shields.io/badge/%E2%98%95_Buy_Me_a_Coffee-FF6B6B?style=for-the-badge" /></a>
+
+</div>
+
+<div align="center">
+
 <p style="font-size:20px;"><b>勤靡余劳，心有常闲</b></p>
 <p style="font-size:13px;color:#888;">Tireless in effort, yet always at ease within</p>
 

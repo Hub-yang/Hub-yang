@@ -57,3 +57,13 @@
 <a href="https://space.bilibili.com/278851804"><img src="https://img.shields.io/badge/%F0%9F%93%BA_B站-F97316?style=for-the-badge" /></a>
 
 </div>
+
+<div align="center">
+
+### 💖 支持我
+
+如果你喜欢我的项目，欢迎请我喝杯咖啡 ☕
+
+<a href="https://afdian.com/a/huberyyang"><img src="https://img.shields.io/badge/%E2%98%95_%E8%AF%B7%E6%88%91%E5%96%9D%E5%92%96%E5%95%A1-FF6B6B?style=for-the-badge" /></a>
+
+</div>
