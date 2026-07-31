@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Tireless-in-effort,-yet-always-at-ease-within&descAlignY=55&descSize=18&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=Tireless%20in%20effort,%20yet%20always%20at%20ease%20within&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 
 </div>
 
