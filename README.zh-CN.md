@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=前端开发工程师&descAlignY=55&descSize=18&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hubery%20Yang&fontSize=42&fontColor=ffffff&animation=none&fontAlignY=35&desc=勤靡余劳，心有常闲&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 
 </div>
 
@@ -16,9 +16,7 @@
 
 <div align="center">
 
-**👋 Hi, 我是[@HuberyYang](https://huberyyang.site/) — 一名前端开发工程师，开源爱好者，对 Vue / React / Nuxt / Next / AI 感兴趣。**
-
-**🌟 勤靡余劳，心有常闲**
+**👋 Hi, 我是[@HuberyYang](https://huberyyang.site/) — 一名前端开发工程师，开源爱好者，对 Vue / React / Nuxt / Next / AI 感兴趣，开发合作欢迎联系。**
 
 </div>
 
