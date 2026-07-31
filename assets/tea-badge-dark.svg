@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="请我喝杯奶茶">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="159" height="39" rx="19.5" fill="url(#grad)" stroke="rgba(255,255,255,0.18)"/>
+  <g transform="translate(14,10)" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="4" width="14" height="1.6" rx="0.8"/>
+    <path d="M2,5.6 L14,5.6 L12.5,17 Q12.3,18 11,18 L5,18 Q3.7,18 3.5,17 Z"/>
+    <path d="M9,17 L15,-2"/>
+  </g>
+  <text x="44" y="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#ffffff">请我喝杯奶茶</text>
+</svg>

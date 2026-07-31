@@ -64,7 +64,12 @@
 
 If you like my work, consider buying me a coffee ☕
 
-<a href="https://afdian.com/a/huberyyang"><img src="https://img.shields.io/badge/%E2%98%95_Buy_Me_a_Coffee-FF6B6B?style=for-the-badge" /></a>
+<a href="https://afdian.com/a/huberyyang">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/coffee-badge-dark.svg" />
+    <img src="./assets/coffee-badge-light.svg" alt="Buy Me a Coffee" />
+  </picture>
+</a>
 
 </div>
 

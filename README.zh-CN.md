@@ -62,8 +62,13 @@
 
 ### 💖 支持我
 
-如果你喜欢我的项目，欢迎请我喝杯咖啡 ☕
+如果你喜欢我的项目，欢迎请我喝杯奶茶
 
-<a href="https://afdian.com/a/huberyyang"><img src="https://img.shields.io/badge/%E2%98%95_%E8%AF%B7%E6%88%91%E5%96%9D%E5%92%96%E5%95%A1-FF6B6B?style=for-the-badge" /></a>
+<a href="https://afdian.com/a/huberyyang">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tea-badge-dark.svg" />
+    <img src="./assets/tea-badge-light.svg" alt="请我喝杯奶茶" />
+  </picture>
+</a>
 
 </div>
