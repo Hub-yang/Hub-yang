@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hub-yang&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-yang&layout=compact&theme=tokyonight&hide_border=true" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=Hub-yang&theme=tokyonight&hide_border=true&disable_animations=true" /></td>
   </tr>
 </table>
