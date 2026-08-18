@@ -35,7 +35,7 @@
 ### 🚀 Projects & Sites
 
 <a href="https://huberyyang.site/">home</a> ·
-<a href="https://huberyyang.site:82/">blog</a> ·
+<a href="https://huberyyang.site:91/">blog</a> ·
 <a href="https://huberyyang.site:81/">fitness-manage-system</a> ·
 <a href="https://huberyyang.site:83/">music</a> ·
 <a href="https://huberyyang.site:84/">frontend-forest</a> ·

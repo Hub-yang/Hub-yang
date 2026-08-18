@@ -33,7 +33,7 @@
 ### 🚀 项目、站点链接
 
 <a href="https://huberyyang.site/">主页</a> ·
-<a href="https://huberyyang.site:82/">博客</a> ·
+<a href="https://huberyyang.site:91/">博客</a> ·
 <a href="https://huberyyang.site:81/">健身管理系统</a> ·
 <a href="https://huberyyang.site:83/">音乐</a> ·
 <a href="https://huberyyang.site:84/">前端森林</a> ·
