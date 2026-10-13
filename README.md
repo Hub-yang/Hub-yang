@@ -36,11 +36,13 @@
 
 <a href="https://huberyyang.site/">home</a> ·
 <a href="https://huberyyang.site:91/">blog</a> ·
+<a href="https://huberyyang.site:90/">ai-news-digest</a> ·
+<a href="https://huberyyang.site:88/">equals-demo</a> ·
+<a href="https://huberyyang-space.github.io/todo-flex/">flex-playground</a> ·
+<a href="https://huberyyang.site:89/day01">50Practice-vue3</a> ·
+<a href="https://huberyyang.site:84/">frontend-forest</a> ·
 <a href="https://huberyyang.site:81/">fitness-manage-system</a> ·
 <a href="https://huberyyang.site:83/">music</a> ·
-<a href="https://huberyyang.site:84/">frontend-forest</a> ·
-<a href="https://huberyyang.site:88/">equals-demo</a> ·
-<a href="https://huberyyang.site:90/">ai-daily</a> ·
 <a href="https://space.bilibili.com/278851804">bilibili</a>
 
 </div>
