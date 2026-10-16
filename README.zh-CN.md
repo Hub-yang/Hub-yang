@@ -35,7 +35,7 @@
 <a href="https://html.huberyyang.site/">主页</a> ·
 <a href="https://blog.huberyyang.site/">博客</a> ·
 <a href="https://ai.huberyyang.site/">AI周报</a> ·
-<a href="https://jsequalshuberyyang.site/">equals-demo</a> ·
+<a href="https://jsequals.huberyyang.site/">equals-demo</a> ·
 <a href="https://huberyyang-space.github.io/todo-flex/">flex游乐场</a> ·
 <a href="https://projects.huberyyang.site/day01">50Practice-vue3版本</a> ·
 <a href="https://forest.huberyyang.site/">前端森林</a> ·
