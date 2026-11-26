@@ -37,6 +37,7 @@
 <a href="https://html.huberyyang.site/">home</a> ·
 <a href="https://blog.huberyyang.site/">blog</a> ·
 <a href="https://ai.huberyyang.site/">ai-news-digest</a> ·
+<a href="https://books.huberyyang.site/">bookshelf</a> ·
 <a href="https://jsequals.huberyyang.site/">equals-demo</a> ·
 <a href="https://huberyyang-space.github.io/todo-flex/">flex-playground</a> ·
 <a href="https://projects.huberyyang.site/day01">50Practice-vue3</a> ·
